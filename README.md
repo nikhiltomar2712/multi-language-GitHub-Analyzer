@@ -585,7 +585,7 @@ This project is free and open-source. You can use it for personal and commercial
 
 - **Issues:** [GitHub Issues](https://github.com/nikhiltomar2712/project/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/nikhiltomar2712/project/discussions)
-- **Email:** [Contact](mailto:support@example.com)
+- **Email:** [Contact](mailto:nikhiltomarsan2712@gmail.com)
 
 ---
 
